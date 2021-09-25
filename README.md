@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dam Viet</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">I will be back soon</h3>
 
 <p align="center">
